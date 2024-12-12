@@ -22,19 +22,19 @@
         <mxCell id="JPLoVwKBaMMpzG3dF9U6-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JPLoVwKBaMMpzG3dF9U6-5" target="JPLoVwKBaMMpzG3dF9U6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-5" value="Approval 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-5" value="Department Head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JPLoVwKBaMMpzG3dF9U6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JPLoVwKBaMMpzG3dF9U6-7" target="JPLoVwKBaMMpzG3dF9U6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-7" value="Approval 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-7" value="Finance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JPLoVwKBaMMpzG3dF9U6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JPLoVwKBaMMpzG3dF9U6-8" target="JPLoVwKBaMMpzG3dF9U6-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-8" value="Approval 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-8" value="Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JPLoVwKBaMMpzG3dF9U6-10" value="End process or Terminate process" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;rotation=0;" vertex="1" parent="1">
@@ -46,22 +46,22 @@
         <mxCell id="JPLoVwKBaMMpzG3dF9U6-13" value="Check Value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-14" value="Approval 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-14" value="supervisor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-15" value="Approval 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-15" value="supervisor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-16" value="Approval 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-16" value="supervisor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-17" value="Approval 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-17" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-18" value="Approval 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-18" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JPLoVwKBaMMpzG3dF9U6-19" value="Approval 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JPLoVwKBaMMpzG3dF9U6-19" value="Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
